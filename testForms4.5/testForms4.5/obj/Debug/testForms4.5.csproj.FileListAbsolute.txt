@@ -1,0 +1,13 @@
+C:\Users\a.gallea\source\repos\testForms4.5\testForms4.5\bin\Debug\testForms4.5.exe.config
+C:\Users\a.gallea\source\repos\testForms4.5\testForms4.5\bin\Debug\testForms4.5.exe
+C:\Users\a.gallea\source\repos\testForms4.5\testForms4.5\bin\Debug\testForms4.5.pdb
+C:\Users\a.gallea\source\repos\testForms4.5\testForms4.5\obj\Debug\testForms4.5.csproj.AssemblyReference.cache
+C:\Users\a.gallea\source\repos\testForms4.5\testForms4.5\obj\Debug\testForms4._5.Form1.resources
+C:\Users\a.gallea\source\repos\testForms4.5\testForms4.5\obj\Debug\testForms4._5.Properties.Resources.resources
+C:\Users\a.gallea\source\repos\testForms4.5\testForms4.5\obj\Debug\testForms4.5.csproj.GenerateResource.cache
+C:\Users\a.gallea\source\repos\testForms4.5\testForms4.5\obj\Debug\testForms4.5.csproj.CoreCompileInputs.cache
+C:\Users\a.gallea\source\repos\testForms4.5\testForms4.5\obj\Debug\testForms4.5.exe
+C:\Users\a.gallea\source\repos\testForms4.5\testForms4.5\obj\Debug\testForms4.5.pdb
+C:\Users\a.gallea\source\repos\testForms4.5\testForms4.5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a.gallea\source\repos\testForms4.5\testForms4.5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a.gallea\source\repos\testForms4.5\testForms4.5\obj\Debug\testForms4.5.csproj.CopyComplete
